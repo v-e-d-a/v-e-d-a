@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @v-e-d-a
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning multithreading
+- 🌱 I’m currently learning competitive programming
 - 💞️ I’m looking to collaborate on linkedin www.linkedin.com/in/r-veda-shree-1b6844223
 
 <!---
